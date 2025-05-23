@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: cd7b1426aea72f04c87ccd430041aa8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -197355164606320977
+    second: Demon_2_Spritelist_0
+  - first:
+      213: 8580041700437173071
+    second: Demon_2_Spritelist_1
+  - first:
+      213: -9116947672062065854
+    second: Demon_2_Spritelist_2
+  - first:
+      213: 4012764159446912106
+    second: Demon_2_Spritelist_3
+  - first:
+      213: 6123809001061145920
+    second: Demon_2_Spritelist_4
+  - first:
+      213: 2052824195191906536
+    second: Demon_2_Spritelist_5
+  - first:
+      213: -1091024797334276023
+    second: Demon_2_Spritelist_6
+  - first:
+      213: 6967589947051773260
+    second: Demon_2_Spritelist_7
+  - first:
+      213: 3462338991888163484
+    second: Demon_2_Spritelist_8
+  - first:
+      213: -71493430458939467
+    second: Demon_2_Spritelist_9
+  - first:
+      213: -764142089251706953
+    second: Demon_2_Spritelist_10
+  - first:
+      213: -161607248359532228
+    second: Demon_2_Spritelist_11
+  - first:
+      213: -2205135144682496016
+    second: Demon_2_Spritelist_12
+  - first:
+      213: -1658423680810822283
+    second: Demon_2_Spritelist_13
+  - first:
+      213: -3158843509661291169
+    second: Demon_2_Spritelist_14
+  - first:
+      213: -7267071800417052101
+    second: Demon_2_Spritelist_15
+  - first:
+      213: 7095697831520046339
+    second: Demon_2_Spritelist_16
+  - first:
+      213: -1545984048007212333
+    second: Demon_2_Spritelist_17
+  - first:
+      213: -3493843401174929757
+    second: Demon_2_Spritelist_18
+  - first:
+      213: 3297844445450597540
+    second: Demon_2_Spritelist_19
+  - first:
+      213: 8882919400528317694
+    second: Demon_2_Spritelist_20
+  - first:
+      213: 5089171131062144640
+    second: Demon_2_Spritelist_21
+  - first:
+      213: -5943143013938551272
+    second: Demon_2_Spritelist_22
+  - first:
+      213: 2380207803593733754
+    second: Demon_2_Spritelist_23
+  - first:
+      213: 1874113568307894266
+    second: Demon_2_Spritelist_24
+  - first:
+      213: 1844055664650144973
+    second: Demon_2_Spritelist_25
+  - first:
+      213: -6107263043877389395
+    second: Demon_2_Spritelist_26
+  - first:
+      213: 7401939675326638227
+    second: Demon_2_Spritelist_27
+  - first:
+      213: 7861590998688357668
+    second: Demon_2_Spritelist_28
+  - first:
+      213: 5615439100530396757
+    second: Demon_2_Spritelist_29
+  - first:
+      213: -6196226542991365630
+    second: Demon_2_Spritelist_30
+  - first:
+      213: 7656991243450172999
+    second: Demon_2_Spritelist_31
+  - first:
+      213: -8699215300751614847
+    second: Demon_2_Spritelist_32
+  - first:
+      213: -3918673343117301326
+    second: Demon_2_Spritelist_33
+  - first:
+      213: 2640806011513588559
+    second: Demon_2_Spritelist_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 639
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae2d0ff58ad24df0800000000000000
+      internalID: -197355164606320977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 639
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43a890b77e621770800000000000000
+      internalID: 8580041700437173071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 639
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2438aea55681a7180800000000000000
+      internalID: -9116947672062065854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 639
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c80431eb330b730800000000000000
+      internalID: 4012764159446912106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 639
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd69457d32cf450800000000000000
+      internalID: 6123809001061145920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 639
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0adbcaab81d7c10800000000000000
+      internalID: 2052824195191906536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 511
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9487fb13ab6ebd0f0800000000000000
+      internalID: -1091024797334276023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 511
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8a96142ad1b060800000000000000
+      internalID: 6967589947051773260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 511
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c926a7708f2bc0030800000000000000
+      internalID: 3462338991888163484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 511
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b788b19a11020ff0800000000000000
+      internalID: -71493430458939467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 511
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b72a3481d83565f0800000000000000
+      internalID: -764142089251706953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 511
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39d668501bd1cdf0800000000000000
+      internalID: -161607248359532228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 511
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff587be449c561e0800000000000000
+      internalID: -2205135144682496016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 511
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575dc22f2781cf8e0800000000000000
+      internalID: -1658423680810822283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 511
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d279170988924d0800000000000000
+      internalID: -3158843509661291169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 511
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a12ea33bc262b90800000000000000
+      internalID: -7267071800417052101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 511
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d0349459bf87260800000000000000
+      internalID: 7095697831520046339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 511
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d21c1603bf8b8ae0800000000000000
+      internalID: -1545984048007212333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 383
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae202410ff538fc0800000000000000
+      internalID: -3493843401174929757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 383
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f397ec0c44cd20800000000000000
+      internalID: 3297844445450597540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 383
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc8aec8128764b70800000000000000
+      internalID: 8882919400528317694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 383
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ec12c1e2e50a640800000000000000
+      internalID: 5089171131062144640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 383
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81629dcbae6b58da0800000000000000
+      internalID: -5943143013938551272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 255
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7631d0f262380120800000000000000
+      internalID: 2380207803593733754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 306
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af75bb36c50320a10800000000000000
+      internalID: 1874113568307894266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 255
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc4855bd6679910800000000000000
+      internalID: 1844055664650144973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab31d78e94ae3ba0800000000000000
+      internalID: -6107263043877389395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 255
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398e6b4eae8f8b660800000000000000
+      internalID: 7401939675326638227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d5a3e5c5bf91d60800000000000000
+      internalID: 7861590998688357668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e04fc2c1c0eed40800000000000000
+      internalID: 5615439100530396757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 285
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a2725c9c4920aa0800000000000000
+      internalID: -6196226542991365630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 278
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746cf1aa7f8134a60800000000000000
+      internalID: 7656991243450172999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 127
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c9e0e36cd264780800000000000000
+      internalID: -8699215300751614847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 127
+        width: 88
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b963b04b531e99c0800000000000000
+      internalID: -3918673343117301326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_2_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 127
+        width: 101
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bcbfc631706a420800000000000000
+      internalID: 2640806011513588559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Demon_2_Spritelist_0: -197355164606320977
+      Demon_2_Spritelist_1: 8580041700437173071
+      Demon_2_Spritelist_10: -764142089251706953
+      Demon_2_Spritelist_11: -161607248359532228
+      Demon_2_Spritelist_12: -2205135144682496016
+      Demon_2_Spritelist_13: -1658423680810822283
+      Demon_2_Spritelist_14: -3158843509661291169
+      Demon_2_Spritelist_15: -7267071800417052101
+      Demon_2_Spritelist_16: 7095697831520046339
+      Demon_2_Spritelist_17: -1545984048007212333
+      Demon_2_Spritelist_18: -3493843401174929757
+      Demon_2_Spritelist_19: 3297844445450597540
+      Demon_2_Spritelist_2: -9116947672062065854
+      Demon_2_Spritelist_20: 8882919400528317694
+      Demon_2_Spritelist_21: 5089171131062144640
+      Demon_2_Spritelist_22: -5943143013938551272
+      Demon_2_Spritelist_23: 2380207803593733754
+      Demon_2_Spritelist_24: 1874113568307894266
+      Demon_2_Spritelist_25: 1844055664650144973
+      Demon_2_Spritelist_26: -6107263043877389395
+      Demon_2_Spritelist_27: 7401939675326638227
+      Demon_2_Spritelist_28: 7861590998688357668
+      Demon_2_Spritelist_29: 5615439100530396757
+      Demon_2_Spritelist_3: 4012764159446912106
+      Demon_2_Spritelist_30: -6196226542991365630
+      Demon_2_Spritelist_31: 7656991243450172999
+      Demon_2_Spritelist_32: -8699215300751614847
+      Demon_2_Spritelist_33: -3918673343117301326
+      Demon_2_Spritelist_34: 2640806011513588559
+      Demon_2_Spritelist_4: 6123809001061145920
+      Demon_2_Spritelist_5: 2052824195191906536
+      Demon_2_Spritelist_6: -1091024797334276023
+      Demon_2_Spritelist_7: 6967589947051773260
+      Demon_2_Spritelist_8: 3462338991888163484
+      Demon_2_Spritelist_9: -71493430458939467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

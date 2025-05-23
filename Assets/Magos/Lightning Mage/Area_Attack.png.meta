@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 3b6054bb3fc3e854cb9da23c4bd00c46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8835053685785351171
+    second: Area_Attack_0
+  - first:
+      213: 5002207678847254891
+    second: Area_Attack_1
+  - first:
+      213: 7613988541192067834
+    second: Area_Attack_2
+  - first:
+      213: -3246892295390847106
+    second: Area_Attack_3
+  - first:
+      213: 2981560973667859939
+    second: Area_Attack_4
+  - first:
+      213: -790800513521464686
+    second: Area_Attack_5
+  - first:
+      213: -5119456874477840353
+    second: Area_Attack_6
+  - first:
+      213: 6608202964235010565
+    second: Area_Attack_7
+  - first:
+      213: 8514678810551733215
+    second: Area_Attack_8
+  - first:
+      213: -1977664317952494495
+    second: Area_Attack_9
+  - first:
+      213: -7863911793987503423
+    second: Area_Attack_10
+  - first:
+      213: -7748804403169406553
+    second: Area_Attack_11
+  - first:
+      213: -5668553257418565643
+    second: Area_Attack_12
+  - first:
+      213: -3507271699795155002
+    second: Area_Attack_13
+  - first:
+      213: 2535978934611009406
+    second: Area_Attack_14
+  - first:
+      213: -5337295332521974457
+    second: Area_Attack_15
+  - first:
+      213: -6961139660448851821
+    second: Area_Attack_16
+  - first:
+      213: 4873919039209402285
+    second: Area_Attack_17
+  - first:
+      213: 6687346990210103449
+    second: Area_Attack_18
+  - first:
+      213: 962093651517756931
+    second: Area_Attack_19
+  - first:
+      213: 7317925117235990764
+    second: Area_Attack_20
+  - first:
+      213: -852995092141636925
+    second: Area_Attack_21
+  - first:
+      213: -3703437594253718376
+    second: Area_Attack_22
+  - first:
+      213: 2815744155575311610
+    second: Area_Attack_23
+  - first:
+      213: -4745418643990842506
+    second: Area_Attack_24
+  - first:
+      213: 4683882736531706741
+    second: Area_Attack_25
+  - first:
+      213: -8139175422247661698
+    second: Area_Attack_26
+  - first:
+      213: 1139736832655410183
+    second: Area_Attack_27
+  - first:
+      213: -4579119204100020082
+    second: Area_Attack_28
+  - first:
+      213: 1823249900050666597
+    second: Area_Attack_29
+  - first:
+      213: -4948214822539853764
+    second: Area_Attack_30
+  - first:
+      213: 350694843800905543
+    second: Area_Attack_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Area_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 129
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb224f9b75936580800000000000000
+      internalID: -8835053685785351171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 60
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b610c6e81696b6540800000000000000
+      internalID: 5002207678847254891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 77
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afad5a1dc325aa960800000000000000
+      internalID: 7613988541192067834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 80
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f964df8a8b0f2d0800000000000000
+      internalID: -3246892295390847106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 130
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edf3a798e1a06920800000000000000
+      internalID: 2981560973667859939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 57
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a4b5f6f138605f0800000000000000
+      internalID: -790800513521464686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 66
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1811d1c81904f8b0800000000000000
+      internalID: -5119456874477840353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 53
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50249ee859d05bb50800000000000000
+      internalID: 6608202964235010565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 129
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb4b77f3473a2670800000000000000
+      internalID: 8514678810551733215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 56
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164f97be7cced84e0800000000000000
+      internalID: -1977664317952494495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 72
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cabe5e53e5cdd290800000000000000
+      internalID: -7863911793987503423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 58
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1da134377b67490800000000000000
+      internalID: -7748804403169406553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 53
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7de2d78d04551b0800000000000000
+      internalID: -5668553257418565643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 67
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7edeaa8faa35fc0800000000000000
+      internalID: -3507271699795155002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 119
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fdc53a76b913320800000000000000
+      internalID: 2535978934611009406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 55
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456dab5c2e1ee5b0800000000000000
+      internalID: -5337295332521974457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398101b4c50156f90800000000000000
+      internalID: -6961139660448851821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 65
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafe6140b83a3a340800000000000000
+      internalID: 4873919039209402285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998304118aa3ecc50800000000000000
+      internalID: 6687346990210103449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306df53241b0a5d00800000000000000
+      internalID: 962093651517756931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce092c14f1e7e8560800000000000000
+      internalID: 7317925117235990764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20fb9ab7d8924f0800000000000000
+      internalID: -852995092141636925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c0ea2312fba9cc0800000000000000
+      internalID: -3703437594253718376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcd27b1468831720800000000000000
+      internalID: 2815744155575311610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673f866b2e2e42eb0800000000000000
+      internalID: -4745418643990842506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5739e88588e700140800000000000000
+      internalID: 4683882736531706741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f8650a317db0f80800000000000000
+      internalID: -8139175422247661698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704cad75c9821df00800000000000000
+      internalID: 1139736832655410183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 0
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88e2775853b370c0800000000000000
+      internalID: -4579119204100020082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 57
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5645945cf1c7d4910800000000000000
+      internalID: 1823249900050666597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 38
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30803ee5d8645bb0800000000000000
+      internalID: -4948214822539853764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 36
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74760553a1bedd400800000000000000
+      internalID: 350694843800905543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Area_Attack_0: -8835053685785351171
+      Area_Attack_1: 5002207678847254891
+      Area_Attack_10: -7863911793987503423
+      Area_Attack_11: -7748804403169406553
+      Area_Attack_12: -5668553257418565643
+      Area_Attack_13: -3507271699795155002
+      Area_Attack_14: 2535978934611009406
+      Area_Attack_15: -5337295332521974457
+      Area_Attack_16: -6961139660448851821
+      Area_Attack_17: 4873919039209402285
+      Area_Attack_18: 6687346990210103449
+      Area_Attack_19: 962093651517756931
+      Area_Attack_2: 7613988541192067834
+      Area_Attack_20: 7317925117235990764
+      Area_Attack_21: -852995092141636925
+      Area_Attack_22: -3703437594253718376
+      Area_Attack_23: 2815744155575311610
+      Area_Attack_24: -4745418643990842506
+      Area_Attack_25: 4683882736531706741
+      Area_Attack_26: -8139175422247661698
+      Area_Attack_27: 1139736832655410183
+      Area_Attack_28: -4579119204100020082
+      Area_Attack_29: 1823249900050666597
+      Area_Attack_3: -3246892295390847106
+      Area_Attack_30: -4948214822539853764
+      Area_Attack_31: 350694843800905543
+      Area_Attack_4: 2981560973667859939
+      Area_Attack_5: -790800513521464686
+      Area_Attack_6: -5119456874477840353
+      Area_Attack_7: 6608202964235010565
+      Area_Attack_8: 8514678810551733215
+      Area_Attack_9: -1977664317952494495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

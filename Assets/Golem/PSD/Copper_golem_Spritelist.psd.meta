@@ -1,0 +1,3003 @@
+fileFormatVersion: 2
+guid: 2eeab8a68b49ab9468141eaa3f3a4e7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2687763899858947516
+    second: Copper_golem_Spritelist_0
+  - first:
+      213: 1903206098926400853
+    second: Copper_golem_Spritelist_1
+  - first:
+      213: -330611721820674663
+    second: Copper_golem_Spritelist_2
+  - first:
+      213: 2974779554671254258
+    second: Copper_golem_Spritelist_3
+  - first:
+      213: 5005742646870961524
+    second: Copper_golem_Spritelist_4
+  - first:
+      213: 1404167133991414781
+    second: Copper_golem_Spritelist_5
+  - first:
+      213: 734014659686658202
+    second: Copper_golem_Spritelist_6
+  - first:
+      213: -7388155495730550353
+    second: Copper_golem_Spritelist_7
+  - first:
+      213: 3706384078017574160
+    second: Copper_golem_Spritelist_8
+  - first:
+      213: -5471434850346419495
+    second: Copper_golem_Spritelist_9
+  - first:
+      213: -9166561170838048490
+    second: Copper_golem_Spritelist_10
+  - first:
+      213: -5739371469376531140
+    second: Copper_golem_Spritelist_11
+  - first:
+      213: 2090748412337275056
+    second: Copper_golem_Spritelist_12
+  - first:
+      213: -2866561759854993259
+    second: Copper_golem_Spritelist_13
+  - first:
+      213: 3527459371267314609
+    second: Copper_golem_Spritelist_14
+  - first:
+      213: -7291910064891082169
+    second: Copper_golem_Spritelist_15
+  - first:
+      213: 262673394100636472
+    second: Copper_golem_Spritelist_16
+  - first:
+      213: 163807556359081765
+    second: Copper_golem_Spritelist_17
+  - first:
+      213: -5285628823428858808
+    second: Copper_golem_Spritelist_18
+  - first:
+      213: -1651592130512815903
+    second: Copper_golem_Spritelist_19
+  - first:
+      213: 4281385914271026585
+    second: Copper_golem_Spritelist_20
+  - first:
+      213: -2976773652716548726
+    second: Copper_golem_Spritelist_21
+  - first:
+      213: 2010037164109916410
+    second: Copper_golem_Spritelist_22
+  - first:
+      213: 2497588166462646732
+    second: Copper_golem_Spritelist_23
+  - first:
+      213: 4013204166829452869
+    second: Copper_golem_Spritelist_24
+  - first:
+      213: -1332178696127370266
+    second: Copper_golem_Spritelist_25
+  - first:
+      213: -6416696192874557559
+    second: Copper_golem_Spritelist_26
+  - first:
+      213: 942937232078863960
+    second: Copper_golem_Spritelist_27
+  - first:
+      213: -2214984459484237394
+    second: Copper_golem_Spritelist_28
+  - first:
+      213: -2754712085748985891
+    second: Copper_golem_Spritelist_29
+  - first:
+      213: 4151744765501459376
+    second: Copper_golem_Spritelist_30
+  - first:
+      213: 4381442796835369081
+    second: Copper_golem_Spritelist_31
+  - first:
+      213: 974284271386521410
+    second: Copper_golem_Spritelist_32
+  - first:
+      213: -457720902858122686
+    second: Copper_golem_Spritelist_33
+  - first:
+      213: 4743784717453889053
+    second: Copper_golem_Spritelist_34
+  - first:
+      213: 2168289983653444230
+    second: Copper_golem_Spritelist_35
+  - first:
+      213: -8605406721881959458
+    second: Copper_golem_Spritelist_36
+  - first:
+      213: -8661523012520252941
+    second: Copper_golem_Spritelist_37
+  - first:
+      213: 1858740731362377678
+    second: Copper_golem_Spritelist_38
+  - first:
+      213: 4761370954759606268
+    second: Copper_golem_Spritelist_39
+  - first:
+      213: 9211799500828344600
+    second: Copper_golem_Spritelist_40
+  - first:
+      213: 2419782306043380727
+    second: Copper_golem_Spritelist_41
+  - first:
+      213: 806650621828371085
+    second: Copper_golem_Spritelist_42
+  - first:
+      213: 5700846572670011421
+    second: Copper_golem_Spritelist_43
+  - first:
+      213: 5572177845844522279
+    second: Copper_golem_Spritelist_44
+  - first:
+      213: -7147211608210694058
+    second: Copper_golem_Spritelist_45
+  - first:
+      213: -4749320224402054560
+    second: Copper_golem_Spritelist_46
+  - first:
+      213: 893387073096333519
+    second: Copper_golem_Spritelist_47
+  - first:
+      213: -1361314437590075321
+    second: Copper_golem_Spritelist_48
+  - first:
+      213: -8214774619267198658
+    second: Copper_golem_Spritelist_49
+  - first:
+      213: -2108187742224895196
+    second: Copper_golem_Spritelist_50
+  - first:
+      213: 1525910411895627717
+    second: Copper_golem_Spritelist_51
+  - first:
+      213: -2152670313218914677
+    second: Copper_golem_Spritelist_52
+  - first:
+      213: 733785364416483286
+    second: Copper_golem_Spritelist_53
+  - first:
+      213: -2544989699372144323
+    second: Copper_golem_Spritelist_54
+  - first:
+      213: -6160153289822066098
+    second: Copper_golem_Spritelist_55
+  - first:
+      213: 8086216832649762037
+    second: Copper_golem_Spritelist_56
+  - first:
+      213: 6202123692330606833
+    second: Copper_golem_Spritelist_57
+  - first:
+      213: -8513977932474398684
+    second: Copper_golem_Spritelist_58
+  - first:
+      213: 574558750023478943
+    second: Copper_golem_Spritelist_59
+  - first:
+      213: -7084013385826039930
+    second: Copper_golem_Spritelist_60
+  - first:
+      213: 6133940552189277514
+    second: Copper_golem_Spritelist_61
+  - first:
+      213: -379718982808465138
+    second: Copper_golem_Spritelist_62
+  - first:
+      213: -7374766414107637644
+    second: Copper_golem_Spritelist_63
+  - first:
+      213: -4623536735211862352
+    second: Copper_golem_Spritelist_64
+  - first:
+      213: 1231412591687545806
+    second: Copper_golem_Spritelist_65
+  - first:
+      213: 4191218951861738905
+    second: Copper_golem_Spritelist_66
+  - first:
+      213: -8455560255193042846
+    second: Copper_golem_Spritelist_67
+  - first:
+      213: 3192297632644697598
+    second: Copper_golem_Spritelist_68
+  - first:
+      213: -996904824745562354
+    second: Copper_golem_Spritelist_69
+  - first:
+      213: 1868893543285639385
+    second: Copper_golem_Spritelist_70
+  - first:
+      213: 8239114525679456236
+    second: Copper_golem_Spritelist_71
+  - first:
+      213: 3514211785080388667
+    second: Copper_golem_Spritelist_72
+  - first:
+      213: -2049599465634401330
+    second: Copper_golem_Spritelist_73
+  - first:
+      213: -3977922261918421970
+    second: Copper_golem_Spritelist_74
+  - first:
+      213: 4370318962746804824
+    second: Copper_golem_Spritelist_75
+  - first:
+      213: 2697531031623064494
+    second: Copper_golem_Spritelist_76
+  - first:
+      213: -4742164172244603037
+    second: Copper_golem_Spritelist_77
+  - first:
+      213: -7329432632859327200
+    second: Copper_golem_Spritelist_78
+  - first:
+      213: 6198489648855015666
+    second: Copper_golem_Spritelist_79
+  - first:
+      213: 7292432232593936869
+    second: Copper_golem_Spritelist_80
+  - first:
+      213: 5192573707530513324
+    second: Copper_golem_Spritelist_81
+  - first:
+      213: -982156143691905694
+    second: Copper_golem_Spritelist_82
+  - first:
+      213: -1760528611389317359
+    second: Copper_golem_Spritelist_83
+  - first:
+      213: 3008292092648935492
+    second: Copper_golem_Spritelist_84
+  - first:
+      213: 4185578254101879513
+    second: Copper_golem_Spritelist_85
+  - first:
+      213: 1532269706942640222
+    second: Copper_golem_Spritelist_86
+  - first:
+      213: 5686855108114522934
+    second: Copper_golem_Spritelist_87
+  - first:
+      213: 7798501990458745480
+    second: Copper_golem_Spritelist_88
+  - first:
+      213: -6881469896039467317
+    second: Copper_golem_Spritelist_89
+  - first:
+      213: 8606957988798692527
+    second: Copper_golem_Spritelist_90
+  - first:
+      213: 7814630816075321425
+    second: Copper_golem_Spritelist_91
+  - first:
+      213: 195770732282217814
+    second: Copper_golem_Spritelist_92
+  - first:
+      213: 8324417423926235015
+    second: Copper_golem_Spritelist_93
+  - first:
+      213: 4284734641506680403
+    second: Copper_golem_Spritelist_94
+  - first:
+      213: 4227320183423194357
+    second: Copper_golem_Spritelist_95
+  - first:
+      213: -6525906879144623306
+    second: Copper_golem_Spritelist_96
+  - first:
+      213: -2130245020828642377
+    second: Copper_golem_Spritelist_97
+  - first:
+      213: 8431808201319347467
+    second: Copper_golem_Spritelist_98
+  - first:
+      213: 8981112788500524275
+    second: Copper_golem_Spritelist_99
+  - first:
+      213: -8267073058140214275
+    second: Copper_golem_Spritelist_100
+  - first:
+      213: 3596931457297256146
+    second: Copper_golem_Spritelist_101
+  - first:
+      213: -2097303310871038891
+    second: Copper_golem_Spritelist_102
+  - first:
+      213: -5578903559160024799
+    second: Copper_golem_Spritelist_103
+  - first:
+      213: 2913206254414443206
+    second: Copper_golem_Spritelist_104
+  - first:
+      213: 2187557431245992445
+    second: Copper_golem_Spritelist_105
+  - first:
+      213: -4855527002503699771
+    second: Copper_golem_Spritelist_106
+  - first:
+      213: -9100510862599836336
+    second: Copper_golem_Spritelist_107
+  - first:
+      213: 8331552678488634874
+    second: Copper_golem_Spritelist_108
+  - first:
+      213: -5440547341295380910
+    second: Copper_golem_Spritelist_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1158
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f9c439f423bad0800000000000000
+      internalID: -2687763899858947516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1183
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5557dd40ddb896a10800000000000000
+      internalID: 1903206098926400853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1153
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9956c42046e696bf0800000000000000
+      internalID: -330611721820674663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1158
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa56417e3a884920800000000000000
+      internalID: 2974779554671254258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1183
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d64cf6a68f77540800000000000000
+      internalID: 5005742646870961524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1153
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb26da919a9c7310800000000000000
+      internalID: 1404167133991414781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1158
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a907d8aa17ebf2a00800000000000000
+      internalID: 734014659686658202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1183
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa961a388bff77990800000000000000
+      internalID: -7388155495730550353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1153
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015b6638ea8bf6330800000000000000
+      internalID: 3706384078017574160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1158
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab8651efe8114b0800000000000000
+      internalID: -5471434850346419495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1183
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6113f408e25d9c080800000000000000
+      internalID: -9166561170838048490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1153
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35dccd9e08a950b0800000000000000
+      internalID: -5739371469376531140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1158
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b043109a94d30d10800000000000000
+      internalID: 2090748412337275056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1183
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590ef11644de738d0800000000000000
+      internalID: -2866561759854993259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1153
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3d200eb9d04f030800000000000000
+      internalID: 3527459371267314609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1158
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a42102e6eedca90800000000000000
+      internalID: -7291910064891082169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1183
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b805b6f0435a300800000000000000
+      internalID: 262673394100636472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1153
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fce48ca16f54200800000000000000
+      internalID: 163807556359081765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1023
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cf4fce69ca5a6b0800000000000000
+      internalID: -5285628823428858808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1023
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8f3f235bd5419e0800000000000000
+      internalID: -1651592130512815903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1023
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d4c762ec98a6b30800000000000000
+      internalID: 4281385914271026585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1023
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d861d622060b6d0800000000000000
+      internalID: -2976773652716548726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1023
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ea10b62615eb10800000000000000
+      internalID: 2010037164109916410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1023
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a931643739a220800000000000000
+      internalID: 2497588166462646732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1023
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eacf64de3c1b730800000000000000
+      internalID: 4013204166829452869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1023
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb2cf7b886238de0800000000000000
+      internalID: -1332178696127370266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 895
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f4c184fc053f6a0800000000000000
+      internalID: -6416696192874557559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 895
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85efc8baa6cf51d00800000000000000
+      internalID: 942937232078863960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 895
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea17e6d9e5bc241e0800000000000000
+      internalID: -2214984459484237394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 895
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfc47ef3fb45c9d0800000000000000
+      internalID: -2754712085748985891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 895
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4dc90ed5fd9930800000000000000
+      internalID: 4151744765501459376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 895
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970f01582030ecc30800000000000000
+      internalID: 4381442796835369081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 895
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f6e32026a558d00800000000000000
+      internalID: 974284271386521410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 895
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aded29349d5a9f0800000000000000
+      internalID: -457720902858122686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 767
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e04ce111f45d140800000000000000
+      internalID: 4743784717453889053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 767
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a73b58040571e10800000000000000
+      internalID: 2168289983653444230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 767
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3977a0e24739880800000000000000
+      internalID: -8605406721881959458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 767
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9ebd8f5b61cc780800000000000000
+      internalID: -8661523012520252941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 767
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf776ed8d29bc910800000000000000
+      internalID: 1858740731362377678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 767
+        width: 96
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff0f4218a9c31240800000000000000
+      internalID: 4761370954759606268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 767
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8118efcf6d2e6df70800000000000000
+      internalID: 9211799500828344600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 767
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3cd71df2bc49120800000000000000
+      internalID: 2419782306043380727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 639
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d829deb777cc13b00800000000000000
+      internalID: 806650621828371085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 639
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18cff2e0c97d1f40800000000000000
+      internalID: 5700846572670011421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 639
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253dd66a3a545d40800000000000000
+      internalID: 5572177845844522279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 639
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650ad0ee8e000dc90800000000000000
+      internalID: -7147211608210694058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 639
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062efeb3b66071eb0800000000000000
+      internalID: -4749320224402054560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 640
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc835d24fc2f56c00800000000000000
+      internalID: 893387073096333519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 646
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74835d74bb3ab1de0800000000000000
+      internalID: -1361314437590075321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 653
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e311face1024ffd80800000000000000
+      internalID: -8214774619267198658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 653
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4233ad80b663eb2e0800000000000000
+      internalID: -2108187742224895196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 651
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfdb1c5f6f1d2510800000000000000
+      internalID: 1525910411895627717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 649
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86ce0661cd2022e0800000000000000
+      internalID: -2152670313218914677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 639
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfcc63b6edee2a00800000000000000
+      internalID: 733785364416483286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 639
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3925e33a516eacd0800000000000000
+      internalID: -2544989699372144323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 690
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aa336883db28aa0800000000000000
+      internalID: -6160153289822066098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 639
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f49fdedd53083070800000000000000
+      internalID: 8086216832649762037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 639
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0666e43ae521650800000000000000
+      internalID: 6202123692330606833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 639
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428495ded2648d980800000000000000
+      internalID: -8513977932474398684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 644
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eedb5932e39f700800000000000000
+      internalID: 574558750023478943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 511
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6870ab9bb5780bd90800000000000000
+      internalID: -7084013385826039930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 511
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45fa96ee62202550800000000000000
+      internalID: 6133940552189277514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 511
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e019a33d897fabaf0800000000000000
+      internalID: -379718982808465138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 511
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47802a1050197a990800000000000000
+      internalID: -7374766414107637644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 511
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b64abbf5d5e5dfb0800000000000000
+      internalID: -4623536735211862352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 549
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ba735a3bd61110800000000000000
+      internalID: 1231412591687545806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 562
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d9a914e633a2a30800000000000000
+      internalID: 4191218951861738905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 511
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260be445fb0d7aa80800000000000000
+      internalID: -8455560255193042846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 548
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8b1b88c15d4c20800000000000000
+      internalID: 3192297632644697598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 541
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fea2ef7584a22f0800000000000000
+      internalID: -996904824745562354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 542
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8cf8a96c4afe910800000000000000
+      internalID: 1868893543285639385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 516
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef82e62207375270800000000000000
+      internalID: 8239114525679456236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 383
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c353bdffcf4c030800000000000000
+      internalID: 3514211785080388667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 383
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f70f252c5e83e0800000000000000
+      internalID: -2049599465634401330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_74
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 383
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ceb3a57c49bc8c0800000000000000
+      internalID: -3977922261918421970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_75
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 383
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a4da111fd76ac30800000000000000
+      internalID: 4370318962746804824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_76
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 383
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5c7e5e2e8f6520800000000000000
+      internalID: 2697531031623064494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_77
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 391
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fa6c67fc2703eb0800000000000000
+      internalID: -4742164172244603037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_78
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 383
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02583497adf984a90800000000000000
+      internalID: -7329432632859327200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_79
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 383
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f060ff9e75750650800000000000000
+      internalID: 6198489648855015666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_80
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 394
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1de548a7ce33560800000000000000
+      internalID: 7292432232593936869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 391
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba36b864abf0840800000000000000
+      internalID: 5192573707530513324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_82
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 383
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c645e03eae52f0800000000000000
+      internalID: -982156143691905694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f5a3d3e885197e0800000000000000
+      internalID: -1760528611389317359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_84
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 263
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440d4fa38b99fb920800000000000000
+      internalID: 3008292092648935492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 262
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da9757fe39261a30800000000000000
+      internalID: 4185578254101879513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_86
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 278
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50786e1e27b34510800000000000000
+      internalID: 1532269706942640222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_87
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 281
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63328403794cbee40800000000000000
+      internalID: 5686855108114522934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_88
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 262
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8826879fd38d93c60800000000000000
+      internalID: 7798501990458745480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_89
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 255
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6f502d69b1080a0800000000000000
+      internalID: -6881469896039467317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 255
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac7e0f60be027770800000000000000
+      internalID: 8606957988798692527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_91
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 255
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1509df2d255237c60800000000000000
+      internalID: 7814630816075321425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 255
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655891b917487b200800000000000000
+      internalID: 195770732282217814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 255
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f023bda85468370800000000000000
+      internalID: 8324417423926235015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_94
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 132
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ef0d7747f667b30800000000000000
+      internalID: 4284734641506680403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_95
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f457cc3f457aaa30800000000000000
+      internalID: 4227320183423194357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 132
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6338e47e4425f65a0800000000000000
+      internalID: -6525906879144623306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_97
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 127
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3d6f8a079df62e0800000000000000
+      internalID: -2130245020828642377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_98
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 132
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b057ddda2ecc30570800000000000000
+      internalID: 8431808201319347467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_99
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcaa464f7253ac70800000000000000
+      internalID: 8981112788500524275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_100
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 132
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfba95dbad4754d80800000000000000
+      internalID: -8267073058140214275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_101
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 127
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de81a16a1edae130800000000000000
+      internalID: 3596931457297256146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_102
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f74130c1e4e2e0800000000000000
+      internalID: -2097303310871038891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_103
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121ba1075c0c392b0800000000000000
+      internalID: -5578903559160024799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b1df47a9cd6820800000000000000
+      internalID: 2913206254414443206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_105
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1fe2fb4e3cb5e10800000000000000
+      internalID: 2187557431245992445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_106
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2237abae3bd9cb0800000000000000
+      internalID: -4855527002503699771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_107
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d2728469d74b180800000000000000
+      internalID: -9100510862599836336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_108
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5f4c4c40f9f9370800000000000000
+      internalID: 8331552678488634874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper_golem_Spritelist_109
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569462b40b4f74b0800000000000000
+      internalID: -5440547341295380910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Copper_golem_Spritelist_0: -2687763899858947516
+      Copper_golem_Spritelist_1: 1903206098926400853
+      Copper_golem_Spritelist_10: -9166561170838048490
+      Copper_golem_Spritelist_100: -8267073058140214275
+      Copper_golem_Spritelist_101: 3596931457297256146
+      Copper_golem_Spritelist_102: -2097303310871038891
+      Copper_golem_Spritelist_103: -5578903559160024799
+      Copper_golem_Spritelist_104: 2913206254414443206
+      Copper_golem_Spritelist_105: 2187557431245992445
+      Copper_golem_Spritelist_106: -4855527002503699771
+      Copper_golem_Spritelist_107: -9100510862599836336
+      Copper_golem_Spritelist_108: 8331552678488634874
+      Copper_golem_Spritelist_109: -5440547341295380910
+      Copper_golem_Spritelist_11: -5739371469376531140
+      Copper_golem_Spritelist_12: 2090748412337275056
+      Copper_golem_Spritelist_13: -2866561759854993259
+      Copper_golem_Spritelist_14: 3527459371267314609
+      Copper_golem_Spritelist_15: -7291910064891082169
+      Copper_golem_Spritelist_16: 262673394100636472
+      Copper_golem_Spritelist_17: 163807556359081765
+      Copper_golem_Spritelist_18: -5285628823428858808
+      Copper_golem_Spritelist_19: -1651592130512815903
+      Copper_golem_Spritelist_2: -330611721820674663
+      Copper_golem_Spritelist_20: 4281385914271026585
+      Copper_golem_Spritelist_21: -2976773652716548726
+      Copper_golem_Spritelist_22: 2010037164109916410
+      Copper_golem_Spritelist_23: 2497588166462646732
+      Copper_golem_Spritelist_24: 4013204166829452869
+      Copper_golem_Spritelist_25: -1332178696127370266
+      Copper_golem_Spritelist_26: -6416696192874557559
+      Copper_golem_Spritelist_27: 942937232078863960
+      Copper_golem_Spritelist_28: -2214984459484237394
+      Copper_golem_Spritelist_29: -2754712085748985891
+      Copper_golem_Spritelist_3: 2974779554671254258
+      Copper_golem_Spritelist_30: 4151744765501459376
+      Copper_golem_Spritelist_31: 4381442796835369081
+      Copper_golem_Spritelist_32: 974284271386521410
+      Copper_golem_Spritelist_33: -457720902858122686
+      Copper_golem_Spritelist_34: 4743784717453889053
+      Copper_golem_Spritelist_35: 2168289983653444230
+      Copper_golem_Spritelist_36: -8605406721881959458
+      Copper_golem_Spritelist_37: -8661523012520252941
+      Copper_golem_Spritelist_38: 1858740731362377678
+      Copper_golem_Spritelist_39: 4761370954759606268
+      Copper_golem_Spritelist_4: 5005742646870961524
+      Copper_golem_Spritelist_40: 9211799500828344600
+      Copper_golem_Spritelist_41: 2419782306043380727
+      Copper_golem_Spritelist_42: 806650621828371085
+      Copper_golem_Spritelist_43: 5700846572670011421
+      Copper_golem_Spritelist_44: 5572177845844522279
+      Copper_golem_Spritelist_45: -7147211608210694058
+      Copper_golem_Spritelist_46: -4749320224402054560
+      Copper_golem_Spritelist_47: 893387073096333519
+      Copper_golem_Spritelist_48: -1361314437590075321
+      Copper_golem_Spritelist_49: -8214774619267198658
+      Copper_golem_Spritelist_5: 1404167133991414781
+      Copper_golem_Spritelist_50: -2108187742224895196
+      Copper_golem_Spritelist_51: 1525910411895627717
+      Copper_golem_Spritelist_52: -2152670313218914677
+      Copper_golem_Spritelist_53: 733785364416483286
+      Copper_golem_Spritelist_54: -2544989699372144323
+      Copper_golem_Spritelist_55: -6160153289822066098
+      Copper_golem_Spritelist_56: 8086216832649762037
+      Copper_golem_Spritelist_57: 6202123692330606833
+      Copper_golem_Spritelist_58: -8513977932474398684
+      Copper_golem_Spritelist_59: 574558750023478943
+      Copper_golem_Spritelist_6: 734014659686658202
+      Copper_golem_Spritelist_60: -7084013385826039930
+      Copper_golem_Spritelist_61: 6133940552189277514
+      Copper_golem_Spritelist_62: -379718982808465138
+      Copper_golem_Spritelist_63: -7374766414107637644
+      Copper_golem_Spritelist_64: -4623536735211862352
+      Copper_golem_Spritelist_65: 1231412591687545806
+      Copper_golem_Spritelist_66: 4191218951861738905
+      Copper_golem_Spritelist_67: -8455560255193042846
+      Copper_golem_Spritelist_68: 3192297632644697598
+      Copper_golem_Spritelist_69: -996904824745562354
+      Copper_golem_Spritelist_7: -7388155495730550353
+      Copper_golem_Spritelist_70: 1868893543285639385
+      Copper_golem_Spritelist_71: 8239114525679456236
+      Copper_golem_Spritelist_72: 3514211785080388667
+      Copper_golem_Spritelist_73: -2049599465634401330
+      Copper_golem_Spritelist_74: -3977922261918421970
+      Copper_golem_Spritelist_75: 4370318962746804824
+      Copper_golem_Spritelist_76: 2697531031623064494
+      Copper_golem_Spritelist_77: -4742164172244603037
+      Copper_golem_Spritelist_78: -7329432632859327200
+      Copper_golem_Spritelist_79: 6198489648855015666
+      Copper_golem_Spritelist_8: 3706384078017574160
+      Copper_golem_Spritelist_80: 7292432232593936869
+      Copper_golem_Spritelist_81: 5192573707530513324
+      Copper_golem_Spritelist_82: -982156143691905694
+      Copper_golem_Spritelist_83: -1760528611389317359
+      Copper_golem_Spritelist_84: 3008292092648935492
+      Copper_golem_Spritelist_85: 4185578254101879513
+      Copper_golem_Spritelist_86: 1532269706942640222
+      Copper_golem_Spritelist_87: 5686855108114522934
+      Copper_golem_Spritelist_88: 7798501990458745480
+      Copper_golem_Spritelist_89: -6881469896039467317
+      Copper_golem_Spritelist_9: -5471434850346419495
+      Copper_golem_Spritelist_90: 8606957988798692527
+      Copper_golem_Spritelist_91: 7814630816075321425
+      Copper_golem_Spritelist_92: 195770732282217814
+      Copper_golem_Spritelist_93: 8324417423926235015
+      Copper_golem_Spritelist_94: 4284734641506680403
+      Copper_golem_Spritelist_95: 4227320183423194357
+      Copper_golem_Spritelist_96: -6525906879144623306
+      Copper_golem_Spritelist_97: -2130245020828642377
+      Copper_golem_Spritelist_98: 8431808201319347467
+      Copper_golem_Spritelist_99: 8981112788500524275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

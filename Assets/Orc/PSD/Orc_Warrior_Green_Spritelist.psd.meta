@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 4a798dc7a4eb8484ea4c98e72570d0cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2657166454209489507
+    second: Orc_Warrior_Green_Spritelist_0
+  - first:
+      213: 6248356238572828055
+    second: Orc_Warrior_Green_Spritelist_1
+  - first:
+      213: 3273518261695139485
+    second: Orc_Warrior_Green_Spritelist_2
+  - first:
+      213: -4755916441811517861
+    second: Orc_Warrior_Green_Spritelist_3
+  - first:
+      213: -9050424047513929490
+    second: Orc_Warrior_Green_Spritelist_4
+  - first:
+      213: 5177557930531477637
+    second: Orc_Warrior_Green_Spritelist_5
+  - first:
+      213: -1444512756365565593
+    second: Orc_Warrior_Green_Spritelist_6
+  - first:
+      213: 4504048403029950026
+    second: Orc_Warrior_Green_Spritelist_7
+  - first:
+      213: -2030654740636614130
+    second: Orc_Warrior_Green_Spritelist_8
+  - first:
+      213: 289755679492313710
+    second: Orc_Warrior_Green_Spritelist_9
+  - first:
+      213: 2959313771797041843
+    second: Orc_Warrior_Green_Spritelist_10
+  - first:
+      213: 9165809354284199470
+    second: Orc_Warrior_Green_Spritelist_11
+  - first:
+      213: -2218930856375333548
+    second: Orc_Warrior_Green_Spritelist_12
+  - first:
+      213: 970486464545304551
+    second: Orc_Warrior_Green_Spritelist_13
+  - first:
+      213: 7262420940268515758
+    second: Orc_Warrior_Green_Spritelist_14
+  - first:
+      213: 6406692608890529859
+    second: Orc_Warrior_Green_Spritelist_15
+  - first:
+      213: 5954193056658252390
+    second: Orc_Warrior_Green_Spritelist_16
+  - first:
+      213: 6706600715309987409
+    second: Orc_Warrior_Green_Spritelist_17
+  - first:
+      213: 1879200457472564785
+    second: Orc_Warrior_Green_Spritelist_18
+  - first:
+      213: -2051739210380570558
+    second: Orc_Warrior_Green_Spritelist_19
+  - first:
+      213: -2007368895709392787
+    second: Orc_Warrior_Green_Spritelist_20
+  - first:
+      213: 702562577756155266
+    second: Orc_Warrior_Green_Spritelist_21
+  - first:
+      213: 5292259270279398361
+    second: Orc_Warrior_Green_Spritelist_22
+  - first:
+      213: -6515176613036372088
+    second: Orc_Warrior_Green_Spritelist_23
+  - first:
+      213: -5942277524835972354
+    second: Orc_Warrior_Green_Spritelist_24
+  - first:
+      213: -2361124038503494787
+    second: Orc_Warrior_Green_Spritelist_25
+  - first:
+      213: -6691472189508877539
+    second: Orc_Warrior_Green_Spritelist_26
+  - first:
+      213: -1672180930872436676
+    second: Orc_Warrior_Green_Spritelist_27
+  - first:
+      213: 7326559084853816125
+    second: Orc_Warrior_Green_Spritelist_28
+  - first:
+      213: 5023495739102190789
+    second: Orc_Warrior_Green_Spritelist_29
+  - first:
+      213: 6053598733031542644
+    second: Orc_Warrior_Green_Spritelist_30
+  - first:
+      213: -4514761053871301214
+    second: Orc_Warrior_Green_Spritelist_31
+  - first:
+      213: -5069501695039546040
+    second: Orc_Warrior_Green_Spritelist_32
+  - first:
+      213: -5084899105449998677
+    second: Orc_Warrior_Green_Spritelist_33
+  - first:
+      213: 2654855981413522818
+    second: Orc_Warrior_Green_Spritelist_34
+  - first:
+      213: 5138454277484042685
+    second: Orc_Warrior_Green_Spritelist_35
+  - first:
+      213: -1727198218090574676
+    second: Orc_Warrior_Green_Spritelist_36
+  - first:
+      213: -1614929820710184869
+    second: Orc_Warrior_Green_Spritelist_37
+  - first:
+      213: 5926524830627776420
+    second: Orc_Warrior_Green_Spritelist_38
+  - first:
+      213: 8546760318906186913
+    second: Orc_Warrior_Green_Spritelist_39
+  - first:
+      213: 5121300753778658245
+    second: Orc_Warrior_Green_Spritelist_40
+  - first:
+      213: 1723060438291208739
+    second: Orc_Warrior_Green_Spritelist_41
+  - first:
+      213: -5616006684265636778
+    second: Orc_Warrior_Green_Spritelist_42
+  - first:
+      213: 2207997269089802376
+    second: Orc_Warrior_Green_Spritelist_43
+  - first:
+      213: 9156883653652824152
+    second: Orc_Warrior_Green_Spritelist_44
+  - first:
+      213: -5618000525535976447
+    second: Orc_Warrior_Green_Spritelist_45
+  - first:
+      213: 8415967630813803023
+    second: Orc_Warrior_Green_Spritelist_46
+  - first:
+      213: 7247473962124957041
+    second: Orc_Warrior_Green_Spritelist_47
+  - first:
+      213: -1550467939208416895
+    second: Orc_Warrior_Green_Spritelist_48
+  - first:
+      213: -5939361561072691340
+    second: Orc_Warrior_Green_Spritelist_49
+  - first:
+      213: 3542764459031441208
+    second: Orc_Warrior_Green_Spritelist_50
+  - first:
+      213: -7187030875675444974
+    second: Orc_Warrior_Green_Spritelist_51
+  - first:
+      213: -1958742665849016304
+    second: Orc_Warrior_Green_Spritelist_52
+  - first:
+      213: 7615610650796254301
+    second: Orc_Warrior_Green_Spritelist_53
+  - first:
+      213: -841299763815720735
+    second: Orc_Warrior_Green_Spritelist_54
+  - first:
+      213: -8142375415715113425
+    second: Orc_Warrior_Green_Spritelist_55
+  - first:
+      213: 5881659561576946004
+    second: Orc_Warrior_Green_Spritelist_56
+  - first:
+      213: 7070317971590027001
+    second: Orc_Warrior_Green_Spritelist_57
+  - first:
+      213: 8378397794441839370
+    second: Orc_Warrior_Green_Spritelist_58
+  - first:
+      213: 8545580617075471633
+    second: Orc_Warrior_Green_Spritelist_59
+  - first:
+      213: 9209144692597950651
+    second: Orc_Warrior_Green_Spritelist_60
+  - first:
+      213: 5344108323098759854
+    second: Orc_Warrior_Green_Spritelist_61
+  - first:
+      213: -949741065326168552
+    second: Orc_Warrior_Green_Spritelist_62
+  - first:
+      213: -9057250658400443141
+    second: Orc_Warrior_Green_Spritelist_63
+  - first:
+      213: 1741836356142372297
+    second: Orc_Warrior_Green_Spritelist_64
+  - first:
+      213: -3328617394054539188
+    second: Orc_Warrior_Green_Spritelist_65
+  - first:
+      213: -5224179864046359668
+    second: Orc_Warrior_Green_Spritelist_66
+  - first:
+      213: 2612462429609567405
+    second: Orc_Warrior_Green_Spritelist_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1153
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36aad34dfc620e420800000000000000
+      internalID: 2657166454209489507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1153
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795ba3ec4ee96b650800000000000000
+      internalID: 6248356238572828055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1153
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec712e38fdd6d20800000000000000
+      internalID: 3273518261695139485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1153
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7260b1379ffdb0800000000000000
+      internalID: -4755916441811517861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1153
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8774da74f666280800000000000000
+      internalID: -9050424047513929490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1153
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588d55581816ad740800000000000000
+      internalID: 5177557930531477637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1153
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7616f4b2d4f04fbe0800000000000000
+      internalID: -1444512756365565593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1023
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ef3c9b828918e30800000000000000
+      internalID: 4504048403029950026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1023
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0244e2b54aa1d3e0800000000000000
+      internalID: -2030654740636614130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1023
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e629acb514b650400800000000000000
+      internalID: 289755679492313710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1023
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b252e24238911920800000000000000
+      internalID: 2959313771797041843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1023
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eef019b0f733f70800000000000000
+      internalID: 9165809354284199470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1023
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d489c7426c431e0800000000000000
+      internalID: -2218930856375333548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1023
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef2c823c4cd77d00800000000000000
+      internalID: 970486464545304551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1023
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea130120e5d49c460800000000000000
+      internalID: 7262420940268515758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 895
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3486a02dbf429e850800000000000000
+      internalID: 6406692608890529859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 895
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6626632d90b81a250800000000000000
+      internalID: 5954193056658252390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 895
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156be6641d1a21d50800000000000000
+      internalID: 6706600715309987409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 895
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e57611cd2441a10800000000000000
+      internalID: 1879200457472564785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 895
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24096890f02c683e0800000000000000
+      internalID: -2051739210380570558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 895
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60d216ff946424e0800000000000000
+      internalID: -2007368895709392787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 895
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d63af21f000c900800000000000000
+      internalID: 702562577756155266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 895
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3854844c1e17940800000000000000
+      internalID: 5292259270279398361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 767
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fc80ba3617595a0800000000000000
+      internalID: -6515176613036372088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 767
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa4d5f131ac88da0800000000000000
+      internalID: -5942277524835972354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 767
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b0d5e523a9b3fd0800000000000000
+      internalID: -2361124038503494787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 767
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d130bef1f7d1323a0800000000000000
+      internalID: -6691472189508877539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 807
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389a2f8d483bc8e0800000000000000
+      internalID: -1672180930872436676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 767
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b6f9e7baa2da560800000000000000
+      internalID: 7326559084853816125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 639
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccdfd352ca07b540800000000000000
+      internalID: 5023495739102190789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 639
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f891f69f3b20450800000000000000
+      internalID: 6053598733031542644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 639
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad9b32edb85851c0800000000000000
+      internalID: -4514761053871301214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 639
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d5de6511385a9b0800000000000000
+      internalID: -5069501695039546040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 639
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba683fc543fce69b0800000000000000
+      internalID: -5084899105449998677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 640
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d59f5f271f7d420800000000000000
+      internalID: 2654855981413522818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 640
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d500d0f47f4740800000000000000
+      internalID: 5138454277484042685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 642
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac060a2f52c708e0800000000000000
+      internalID: -1727198218090574676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 642
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58526362ed9699e0800000000000000
+      internalID: -1614929820710184869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 641
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7c912feee3f3250800000000000000
+      internalID: 5926524830627776420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 639
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acbec43a313c9670800000000000000
+      internalID: 8546760318906186913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 639
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbcae8d6e3821740800000000000000
+      internalID: 5121300753778658245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 639
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a50e6e65a89e710800000000000000
+      internalID: 1723060438291208739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 511
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c9020fcafef02b0800000000000000
+      internalID: -5616006684265636778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 511
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888512951d164ae10800000000000000
+      internalID: 2207997269089802376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 511
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850ce81fa29c31f70800000000000000
+      internalID: 9156883653652824152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 511
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1046877994ad802b0800000000000000
+      internalID: -5618000525535976447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 542
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02b7d378f58bc470800000000000000
+      internalID: 8415967630813803023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 542
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d9577b23349460800000000000000
+      internalID: 7247473962124957041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 511
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181b9dfbf91ab7ae0800000000000000
+      internalID: -1550467939208416895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47717a7d026239da0800000000000000
+      internalID: -5939361561072691340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 383
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fa27f418d6a2130800000000000000
+      internalID: 3542764459031441208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 383
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219b9914f79824c90800000000000000
+      internalID: -7187030875675444974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 425
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010faab5ce521d4e0800000000000000
+      internalID: -1958742665849016304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 383
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d546464a98510b960800000000000000
+      internalID: 7615610650796254301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 255
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8d42c725a1354f0800000000000000
+      internalID: -841299763815720735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 255
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f265d6613b8700f80800000000000000
+      internalID: -8142375415715113425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 255
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459d299753adf9150800000000000000
+      internalID: 5881659561576946004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 281
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f61fa92cb0de1260800000000000000
+      internalID: 7070317971590027001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 279
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a034f94476c064470800000000000000
+      internalID: 8378397794441839370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 255
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1153f387b40089670800000000000000
+      internalID: 8545580617075471633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb889774e447dcf70800000000000000
+      internalID: 9209144692597950651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 127
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2928f94361a2a40800000000000000
+      internalID: 5344108323098759854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f1a47887d1d2f0800000000000000
+      internalID: -949741065326168552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf46e58738e2e4280800000000000000
+      internalID: -9057250658400443141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51ab0ffee3c2810800000000000000
+      internalID: 1741836356142372297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48513aad106ec1d0800000000000000
+      internalID: -3328617394054539188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba4c0b71cff77b0800000000000000
+      internalID: -5224179864046359668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Green_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 83
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4aee10db4514420800000000000000
+      internalID: 2612462429609567405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orc_Warrior_Green_Spritelist_0: 2657166454209489507
+      Orc_Warrior_Green_Spritelist_1: 6248356238572828055
+      Orc_Warrior_Green_Spritelist_10: 2959313771797041843
+      Orc_Warrior_Green_Spritelist_11: 9165809354284199470
+      Orc_Warrior_Green_Spritelist_12: -2218930856375333548
+      Orc_Warrior_Green_Spritelist_13: 970486464545304551
+      Orc_Warrior_Green_Spritelist_14: 7262420940268515758
+      Orc_Warrior_Green_Spritelist_15: 6406692608890529859
+      Orc_Warrior_Green_Spritelist_16: 5954193056658252390
+      Orc_Warrior_Green_Spritelist_17: 6706600715309987409
+      Orc_Warrior_Green_Spritelist_18: 1879200457472564785
+      Orc_Warrior_Green_Spritelist_19: -2051739210380570558
+      Orc_Warrior_Green_Spritelist_2: 3273518261695139485
+      Orc_Warrior_Green_Spritelist_20: -2007368895709392787
+      Orc_Warrior_Green_Spritelist_21: 702562577756155266
+      Orc_Warrior_Green_Spritelist_22: 5292259270279398361
+      Orc_Warrior_Green_Spritelist_23: -6515176613036372088
+      Orc_Warrior_Green_Spritelist_24: -5942277524835972354
+      Orc_Warrior_Green_Spritelist_25: -2361124038503494787
+      Orc_Warrior_Green_Spritelist_26: -6691472189508877539
+      Orc_Warrior_Green_Spritelist_27: -1672180930872436676
+      Orc_Warrior_Green_Spritelist_28: 7326559084853816125
+      Orc_Warrior_Green_Spritelist_29: 5023495739102190789
+      Orc_Warrior_Green_Spritelist_3: -4755916441811517861
+      Orc_Warrior_Green_Spritelist_30: 6053598733031542644
+      Orc_Warrior_Green_Spritelist_31: -4514761053871301214
+      Orc_Warrior_Green_Spritelist_32: -5069501695039546040
+      Orc_Warrior_Green_Spritelist_33: -5084899105449998677
+      Orc_Warrior_Green_Spritelist_34: 2654855981413522818
+      Orc_Warrior_Green_Spritelist_35: 5138454277484042685
+      Orc_Warrior_Green_Spritelist_36: -1727198218090574676
+      Orc_Warrior_Green_Spritelist_37: -1614929820710184869
+      Orc_Warrior_Green_Spritelist_38: 5926524830627776420
+      Orc_Warrior_Green_Spritelist_39: 8546760318906186913
+      Orc_Warrior_Green_Spritelist_4: -9050424047513929490
+      Orc_Warrior_Green_Spritelist_40: 5121300753778658245
+      Orc_Warrior_Green_Spritelist_41: 1723060438291208739
+      Orc_Warrior_Green_Spritelist_42: -5616006684265636778
+      Orc_Warrior_Green_Spritelist_43: 2207997269089802376
+      Orc_Warrior_Green_Spritelist_44: 9156883653652824152
+      Orc_Warrior_Green_Spritelist_45: -5618000525535976447
+      Orc_Warrior_Green_Spritelist_46: 8415967630813803023
+      Orc_Warrior_Green_Spritelist_47: 7247473962124957041
+      Orc_Warrior_Green_Spritelist_48: -1550467939208416895
+      Orc_Warrior_Green_Spritelist_49: -5939361561072691340
+      Orc_Warrior_Green_Spritelist_5: 5177557930531477637
+      Orc_Warrior_Green_Spritelist_50: 3542764459031441208
+      Orc_Warrior_Green_Spritelist_51: -7187030875675444974
+      Orc_Warrior_Green_Spritelist_52: -1958742665849016304
+      Orc_Warrior_Green_Spritelist_53: 7615610650796254301
+      Orc_Warrior_Green_Spritelist_54: -841299763815720735
+      Orc_Warrior_Green_Spritelist_55: -8142375415715113425
+      Orc_Warrior_Green_Spritelist_56: 5881659561576946004
+      Orc_Warrior_Green_Spritelist_57: 7070317971590027001
+      Orc_Warrior_Green_Spritelist_58: 8378397794441839370
+      Orc_Warrior_Green_Spritelist_59: 8545580617075471633
+      Orc_Warrior_Green_Spritelist_6: -1444512756365565593
+      Orc_Warrior_Green_Spritelist_60: 9209144692597950651
+      Orc_Warrior_Green_Spritelist_61: 5344108323098759854
+      Orc_Warrior_Green_Spritelist_62: -949741065326168552
+      Orc_Warrior_Green_Spritelist_63: -9057250658400443141
+      Orc_Warrior_Green_Spritelist_64: 1741836356142372297
+      Orc_Warrior_Green_Spritelist_65: -3328617394054539188
+      Orc_Warrior_Green_Spritelist_66: -5224179864046359668
+      Orc_Warrior_Green_Spritelist_67: 2612462429609567405
+      Orc_Warrior_Green_Spritelist_7: 4504048403029950026
+      Orc_Warrior_Green_Spritelist_8: -2030654740636614130
+      Orc_Warrior_Green_Spritelist_9: 289755679492313710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

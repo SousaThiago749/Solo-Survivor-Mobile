@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: e6d107141e4dbe0419fab921c4562ee2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6908666862257301766
+    second: Orc_Warrior_Brown_Spritelist_0
+  - first:
+      213: 1883842572467464476
+    second: Orc_Warrior_Brown_Spritelist_1
+  - first:
+      213: 6316903000547202668
+    second: Orc_Warrior_Brown_Spritelist_2
+  - first:
+      213: -2754212844124665608
+    second: Orc_Warrior_Brown_Spritelist_3
+  - first:
+      213: 5104872415176594364
+    second: Orc_Warrior_Brown_Spritelist_4
+  - first:
+      213: -6302803925780016812
+    second: Orc_Warrior_Brown_Spritelist_5
+  - first:
+      213: 7854247612636858664
+    second: Orc_Warrior_Brown_Spritelist_6
+  - first:
+      213: -7254427505095066028
+    second: Orc_Warrior_Brown_Spritelist_7
+  - first:
+      213: 4986251030723597000
+    second: Orc_Warrior_Brown_Spritelist_8
+  - first:
+      213: -6915007675162436554
+    second: Orc_Warrior_Brown_Spritelist_9
+  - first:
+      213: 2210199054766268519
+    second: Orc_Warrior_Brown_Spritelist_10
+  - first:
+      213: 2714264863736883568
+    second: Orc_Warrior_Brown_Spritelist_11
+  - first:
+      213: -8091131151098112815
+    second: Orc_Warrior_Brown_Spritelist_12
+  - first:
+      213: 1543347393138258005
+    second: Orc_Warrior_Brown_Spritelist_13
+  - first:
+      213: -5813379210751681234
+    second: Orc_Warrior_Brown_Spritelist_14
+  - first:
+      213: 608269656476649147
+    second: Orc_Warrior_Brown_Spritelist_15
+  - first:
+      213: -9044118230189271910
+    second: Orc_Warrior_Brown_Spritelist_16
+  - first:
+      213: 5300543147713715760
+    second: Orc_Warrior_Brown_Spritelist_17
+  - first:
+      213: 4490366199867233843
+    second: Orc_Warrior_Brown_Spritelist_18
+  - first:
+      213: -7869382925432972092
+    second: Orc_Warrior_Brown_Spritelist_19
+  - first:
+      213: -86477291411678427
+    second: Orc_Warrior_Brown_Spritelist_20
+  - first:
+      213: -6295049096451470431
+    second: Orc_Warrior_Brown_Spritelist_21
+  - first:
+      213: 3034871370295677267
+    second: Orc_Warrior_Brown_Spritelist_22
+  - first:
+      213: 4336856291230448467
+    second: Orc_Warrior_Brown_Spritelist_23
+  - first:
+      213: 9207767703996247125
+    second: Orc_Warrior_Brown_Spritelist_24
+  - first:
+      213: -8018226525293166779
+    second: Orc_Warrior_Brown_Spritelist_25
+  - first:
+      213: -6888714536912807915
+    second: Orc_Warrior_Brown_Spritelist_26
+  - first:
+      213: 366295033138029889
+    second: Orc_Warrior_Brown_Spritelist_27
+  - first:
+      213: 9213533640011579116
+    second: Orc_Warrior_Brown_Spritelist_28
+  - first:
+      213: 8012468858475129423
+    second: Orc_Warrior_Brown_Spritelist_29
+  - first:
+      213: -6945075484998511210
+    second: Orc_Warrior_Brown_Spritelist_30
+  - first:
+      213: -5136848471092343246
+    second: Orc_Warrior_Brown_Spritelist_31
+  - first:
+      213: 8035248207044506672
+    second: Orc_Warrior_Brown_Spritelist_32
+  - first:
+      213: 4709856742250186066
+    second: Orc_Warrior_Brown_Spritelist_33
+  - first:
+      213: -402606380681045959
+    second: Orc_Warrior_Brown_Spritelist_34
+  - first:
+      213: -1986908150175148745
+    second: Orc_Warrior_Brown_Spritelist_35
+  - first:
+      213: -3815992373568018755
+    second: Orc_Warrior_Brown_Spritelist_36
+  - first:
+      213: -7510870550793277789
+    second: Orc_Warrior_Brown_Spritelist_37
+  - first:
+      213: -1734585405602078685
+    second: Orc_Warrior_Brown_Spritelist_38
+  - first:
+      213: 6427513686513744783
+    second: Orc_Warrior_Brown_Spritelist_39
+  - first:
+      213: 7712348409905876193
+    second: Orc_Warrior_Brown_Spritelist_40
+  - first:
+      213: -8262338940824399693
+    second: Orc_Warrior_Brown_Spritelist_41
+  - first:
+      213: 980958193119709875
+    second: Orc_Warrior_Brown_Spritelist_42
+  - first:
+      213: 7959607681678062435
+    second: Orc_Warrior_Brown_Spritelist_43
+  - first:
+      213: 5681858927991355772
+    second: Orc_Warrior_Brown_Spritelist_44
+  - first:
+      213: 947536646595990564
+    second: Orc_Warrior_Brown_Spritelist_45
+  - first:
+      213: -2077427834973382428
+    second: Orc_Warrior_Brown_Spritelist_46
+  - first:
+      213: 4803890924626810557
+    second: Orc_Warrior_Brown_Spritelist_47
+  - first:
+      213: 7992717157889505126
+    second: Orc_Warrior_Brown_Spritelist_48
+  - first:
+      213: 8588199033146474081
+    second: Orc_Warrior_Brown_Spritelist_49
+  - first:
+      213: -8097197543783750741
+    second: Orc_Warrior_Brown_Spritelist_50
+  - first:
+      213: 2131639611009164622
+    second: Orc_Warrior_Brown_Spritelist_51
+  - first:
+      213: -8715895195625316753
+    second: Orc_Warrior_Brown_Spritelist_52
+  - first:
+      213: -5796971629066630850
+    second: Orc_Warrior_Brown_Spritelist_53
+  - first:
+      213: -774408823286143099
+    second: Orc_Warrior_Brown_Spritelist_54
+  - first:
+      213: -1316441028706056191
+    second: Orc_Warrior_Brown_Spritelist_55
+  - first:
+      213: 738881348508552938
+    second: Orc_Warrior_Brown_Spritelist_56
+  - first:
+      213: 2326450892881823210
+    second: Orc_Warrior_Brown_Spritelist_57
+  - first:
+      213: 6539065455358111817
+    second: Orc_Warrior_Brown_Spritelist_58
+  - first:
+      213: -5792318368796703784
+    second: Orc_Warrior_Brown_Spritelist_59
+  - first:
+      213: 1217306596090082403
+    second: Orc_Warrior_Brown_Spritelist_60
+  - first:
+      213: -3798517486981664904
+    second: Orc_Warrior_Brown_Spritelist_61
+  - first:
+      213: 1344096663000856193
+    second: Orc_Warrior_Brown_Spritelist_62
+  - first:
+      213: 3970659918819615120
+    second: Orc_Warrior_Brown_Spritelist_63
+  - first:
+      213: -2438431888929294240
+    second: Orc_Warrior_Brown_Spritelist_64
+  - first:
+      213: -887794387592306015
+    second: Orc_Warrior_Brown_Spritelist_65
+  - first:
+      213: 6954022054463147807
+    second: Orc_Warrior_Brown_Spritelist_66
+  - first:
+      213: 2056687120792835441
+    second: Orc_Warrior_Brown_Spritelist_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1153
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af614aba71c7f10a0800000000000000
+      internalID: -6908666862257301766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1153
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c196ea0b6d0c42a10800000000000000
+      internalID: 1883842572467464476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1153
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6617348fc52aa750800000000000000
+      internalID: 6316903000547202668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1153
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8812eb20217c9d0800000000000000
+      internalID: -2754212844124665608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1153
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb39a423a6628d640800000000000000
+      internalID: 5104872415176594364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1153
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451d1f22931f788a0800000000000000
+      internalID: -6302803925780016812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1153
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8290e211794effc60800000000000000
+      internalID: 7854247612636858664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1023
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e3cf5ae98135b90800000000000000
+      internalID: -7254427505095066028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1023
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c29437e4e8b23540800000000000000
+      internalID: 4986251030723597000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1023
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cd7de1825f800a0800000000000000
+      internalID: -6915007675162436554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1023
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7606f3684543cae10800000000000000
+      internalID: 2210199054766268519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1023
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0796c5543810ba520800000000000000
+      internalID: 2714264863736883568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1023
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d413b3361786bf80800000000000000
+      internalID: -8091131151098112815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1023
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f70de6421b6510800000000000000
+      internalID: 1543347393138258005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1023
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d518e886ab25fa0800000000000000
+      internalID: -5813379210751681234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 895
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb680f1a702017800800000000000000
+      internalID: 608269656476649147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 895
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a941fee2366dc7280800000000000000
+      internalID: -9044118230189271910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 895
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e5b1cc8ef4f8940800000000000000
+      internalID: 5300543147713715760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 895
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336d18e844cf05e30800000000000000
+      internalID: 4490366199867233843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 895
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1b005ce55ac290800000000000000
+      internalID: -7869382925432972092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 895
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bd4449c55cccef0800000000000000
+      internalID: -86477291411678427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 895
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abcd5a033e73a8a0800000000000000
+      internalID: -6295049096451470431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 895
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3511a7d8e670e1a20800000000000000
+      internalID: 3034871370295677267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 767
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b75b8b1db9f2c30800000000000000
+      internalID: 4336856291230448467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 767
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ca20321ff88cf70800000000000000
+      internalID: 9207767703996247125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 767
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f3947257989b090800000000000000
+      internalID: -8018226525293166779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 767
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5181e3c60ae5660a0800000000000000
+      internalID: -6888714536912807915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 807
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145ae255467551500800000000000000
+      internalID: 366295033138029889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 767
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee700bb70c0ddf70800000000000000
+      internalID: 9213533640011579116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 639
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a2a4399f1023f60800000000000000
+      internalID: 8012468858475129423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 639
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695d36a94a22e9f90800000000000000
+      internalID: -6945075484998511210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 639
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e488f188f36b8b0800000000000000
+      internalID: -5136848471092343246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 639
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0347bf6fbafe28f60800000000000000
+      internalID: 8035248207044506672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 639
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2550dc0d0c5cc5140800000000000000
+      internalID: 4709856742250186066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 640
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938533f31a7a96af0800000000000000
+      internalID: -402606380681045959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 640
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7355b7380951d64e0800000000000000
+      internalID: -1986908150175148745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 642
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6e0eb772fda0bc0800000000000000
+      internalID: -3815992373568018755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 642
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae2602470704c790800000000000000
+      internalID: -7510870550793277789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 641
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320e28a83c38de7e0800000000000000
+      internalID: -1734585405602078685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 639
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bfc99b4ad133950800000000000000
+      internalID: 6427513686513744783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 639
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec0d7c5404c70b60800000000000000
+      internalID: 7712348409905876193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 639
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0d8425286465d80800000000000000
+      internalID: -8262338940824399693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 511
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bac86087401d9d00800000000000000
+      internalID: 980958193119709875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 511
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36334e1c305367e60800000000000000
+      internalID: 7959607681678062435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c797eca57940ade40800000000000000
+      internalID: 5681858927991355772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 511
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424d4005f83562d00800000000000000
+      internalID: 947536646595990564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 542
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e817e9046e7b23e0800000000000000
+      internalID: -2077427834973382428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 542
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db69a160859daa240800000000000000
+      internalID: 4803890924626810557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 511
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6677c2a68e5dbee60800000000000000
+      internalID: 7992717157889505126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e7c07b4896f2770800000000000000
+      internalID: 8588199033146474081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 383
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3aa961cb9f0af80800000000000000
+      internalID: -8097197543783750741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 383
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e456a5baeea159d10800000000000000
+      internalID: 2131639611009164622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 425
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e18359f7bea0780800000000000000
+      internalID: -8715895195625316753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 383
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39477c54050d8fa0800000000000000
+      internalID: -5796971629066630850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 255
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e919374fb045f0800000000000000
+      internalID: -774408823286143099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 255
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108c934fbdf0bbde0800000000000000
+      internalID: -1316441028706056191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 255
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee8305fba8014a00800000000000000
+      internalID: 738881348508552938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 281
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae58c91d2c6394020800000000000000
+      internalID: 2326450892881823210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 279
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940f5add26d6fba50800000000000000
+      internalID: 6539065455358111817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 255
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d307e1f12d8d9fa0800000000000000
+      internalID: -5792318368796703784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36470ba46edb4e010800000000000000
+      internalID: 1217306596090082403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 127
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f29539874f84bc0800000000000000
+      internalID: -3798517486981664904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18634fd2bc037a210800000000000000
+      internalID: 1344096663000856193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091ef11a82e9a1730800000000000000
+      internalID: 3970659918819615120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068726bcd13f82ed0800000000000000
+      internalID: -2438431888929294240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2a9fd45bbeda3f0800000000000000
+      internalID: -887794387592306015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f028ce636a18060800000000000000
+      internalID: 6954022054463147807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Warrior_Brown_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 83
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1755af02a02da8c10800000000000000
+      internalID: 2056687120792835441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orc_Warrior_Brown_Spritelist_0: -6908666862257301766
+      Orc_Warrior_Brown_Spritelist_1: 1883842572467464476
+      Orc_Warrior_Brown_Spritelist_10: 2210199054766268519
+      Orc_Warrior_Brown_Spritelist_11: 2714264863736883568
+      Orc_Warrior_Brown_Spritelist_12: -8091131151098112815
+      Orc_Warrior_Brown_Spritelist_13: 1543347393138258005
+      Orc_Warrior_Brown_Spritelist_14: -5813379210751681234
+      Orc_Warrior_Brown_Spritelist_15: 608269656476649147
+      Orc_Warrior_Brown_Spritelist_16: -9044118230189271910
+      Orc_Warrior_Brown_Spritelist_17: 5300543147713715760
+      Orc_Warrior_Brown_Spritelist_18: 4490366199867233843
+      Orc_Warrior_Brown_Spritelist_19: -7869382925432972092
+      Orc_Warrior_Brown_Spritelist_2: 6316903000547202668
+      Orc_Warrior_Brown_Spritelist_20: -86477291411678427
+      Orc_Warrior_Brown_Spritelist_21: -6295049096451470431
+      Orc_Warrior_Brown_Spritelist_22: 3034871370295677267
+      Orc_Warrior_Brown_Spritelist_23: 4336856291230448467
+      Orc_Warrior_Brown_Spritelist_24: 9207767703996247125
+      Orc_Warrior_Brown_Spritelist_25: -8018226525293166779
+      Orc_Warrior_Brown_Spritelist_26: -6888714536912807915
+      Orc_Warrior_Brown_Spritelist_27: 366295033138029889
+      Orc_Warrior_Brown_Spritelist_28: 9213533640011579116
+      Orc_Warrior_Brown_Spritelist_29: 8012468858475129423
+      Orc_Warrior_Brown_Spritelist_3: -2754212844124665608
+      Orc_Warrior_Brown_Spritelist_30: -6945075484998511210
+      Orc_Warrior_Brown_Spritelist_31: -5136848471092343246
+      Orc_Warrior_Brown_Spritelist_32: 8035248207044506672
+      Orc_Warrior_Brown_Spritelist_33: 4709856742250186066
+      Orc_Warrior_Brown_Spritelist_34: -402606380681045959
+      Orc_Warrior_Brown_Spritelist_35: -1986908150175148745
+      Orc_Warrior_Brown_Spritelist_36: -3815992373568018755
+      Orc_Warrior_Brown_Spritelist_37: -7510870550793277789
+      Orc_Warrior_Brown_Spritelist_38: -1734585405602078685
+      Orc_Warrior_Brown_Spritelist_39: 6427513686513744783
+      Orc_Warrior_Brown_Spritelist_4: 5104872415176594364
+      Orc_Warrior_Brown_Spritelist_40: 7712348409905876193
+      Orc_Warrior_Brown_Spritelist_41: -8262338940824399693
+      Orc_Warrior_Brown_Spritelist_42: 980958193119709875
+      Orc_Warrior_Brown_Spritelist_43: 7959607681678062435
+      Orc_Warrior_Brown_Spritelist_44: 5681858927991355772
+      Orc_Warrior_Brown_Spritelist_45: 947536646595990564
+      Orc_Warrior_Brown_Spritelist_46: -2077427834973382428
+      Orc_Warrior_Brown_Spritelist_47: 4803890924626810557
+      Orc_Warrior_Brown_Spritelist_48: 7992717157889505126
+      Orc_Warrior_Brown_Spritelist_49: 8588199033146474081
+      Orc_Warrior_Brown_Spritelist_5: -6302803925780016812
+      Orc_Warrior_Brown_Spritelist_50: -8097197543783750741
+      Orc_Warrior_Brown_Spritelist_51: 2131639611009164622
+      Orc_Warrior_Brown_Spritelist_52: -8715895195625316753
+      Orc_Warrior_Brown_Spritelist_53: -5796971629066630850
+      Orc_Warrior_Brown_Spritelist_54: -774408823286143099
+      Orc_Warrior_Brown_Spritelist_55: -1316441028706056191
+      Orc_Warrior_Brown_Spritelist_56: 738881348508552938
+      Orc_Warrior_Brown_Spritelist_57: 2326450892881823210
+      Orc_Warrior_Brown_Spritelist_58: 6539065455358111817
+      Orc_Warrior_Brown_Spritelist_59: -5792318368796703784
+      Orc_Warrior_Brown_Spritelist_6: 7854247612636858664
+      Orc_Warrior_Brown_Spritelist_60: 1217306596090082403
+      Orc_Warrior_Brown_Spritelist_61: -3798517486981664904
+      Orc_Warrior_Brown_Spritelist_62: 1344096663000856193
+      Orc_Warrior_Brown_Spritelist_63: 3970659918819615120
+      Orc_Warrior_Brown_Spritelist_64: -2438431888929294240
+      Orc_Warrior_Brown_Spritelist_65: -887794387592306015
+      Orc_Warrior_Brown_Spritelist_66: 6954022054463147807
+      Orc_Warrior_Brown_Spritelist_67: 2056687120792835441
+      Orc_Warrior_Brown_Spritelist_7: -7254427505095066028
+      Orc_Warrior_Brown_Spritelist_8: 4986251030723597000
+      Orc_Warrior_Brown_Spritelist_9: -6915007675162436554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
