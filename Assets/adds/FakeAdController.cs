@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class FakeAdController : MonoBehaviour
 {
-    public Button botaoFechar;
+    public Button botaoFechar; 
     public float tempoDeEspera = 5f;
     public string cenaParaVoltar = "Main"; 
 
