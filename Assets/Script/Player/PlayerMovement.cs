@@ -47,6 +47,12 @@ public class PlayerMovement : MonoBehaviour
         {
             Debug.LogWarning("PlayerMovement: o campo 'joystick' não está atribuído no Inspector!");
         }
+
+        if (GameSession.instancia != null && GameSession.instancia.isReviving)
+        {
+            speed = GameSession.instancia.savedPlayerSpeed;
+        }
+
     }
 
     void FixedUpdate()

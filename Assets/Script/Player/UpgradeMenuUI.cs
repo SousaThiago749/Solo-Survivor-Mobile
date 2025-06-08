@@ -1,7 +1,7 @@
-
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class UpgradeMenuUI : MonoBehaviour
 {
@@ -9,6 +9,12 @@ public class UpgradeMenuUI : MonoBehaviour
     public GameObject painel;
     public Button[] botoesDePoder;
     public string[] nomesDosPoderes; // =  ["Health", "Speed", "FireBall", "SunStrike", "Lightning","BlackHole", "WaterBall", "Glacial"];
+
+    [Header("Botão de Reviver")]
+    public Button watchAdButton;
+
+    [Header("Painel de Ad")]
+    public GameObject painelAd;
 
     private HashSet<string> poderesEscolhidos = new HashSet<string>();
     private PlayerLevelSystem playerLevel;
@@ -53,9 +59,11 @@ public class UpgradeMenuUI : MonoBehaviour
             Debug.LogWarning("Jogador não encontrado! Confirme se ele tem a tag 'Player'.");
         }
 
+        watchAdButton.gameObject.SetActive(!GameSession.instancia.hasWatchedAdUpgrade);
+        watchAdButton.onClick.AddListener(OnWatchAdPressed);
+
         AtualizarEstadoDosBotoes();
     }
-
 
     public void AbrirMenu()
     {
@@ -72,70 +80,48 @@ public class UpgradeMenuUI : MonoBehaviour
         Debug.Log("Tempo pausado após abrir o menu.");
     }
 
+    public void OnWatchAdPressed()
+    {
+        GameSession.instancia.hasWatchedAdUpgrade = true;
+        watchAdButton.gameObject.SetActive(false);
+
+        Time.timeScale = 0f;  // pausa o jogo
+        painelAd.SetActive(true);
+
+        // Inicia a coroutine para "esperar o Ad acabar"
+        StartCoroutine(SimularAd());
+    }
+
+
+
+
+
+    System.Collections.IEnumerator SimularAd()
+    {
+        yield return new WaitForSecondsRealtime(5f);
+
+        painelAd.SetActive(false);
+        Time.timeScale = 1f;
+
+        Debug.Log("Ad finalizado, jogo retomado e extra upgrade liberado.");
+        AtualizarEstadoDosBotoes();  // <-- aqui!
+    }
+
+
+
+
     // ===========================
     // ESCOLHAS DE PODER
     // ===========================
 
-    public void EscolherVelocidade()
-    {
-        playerLevel.AumentarVelocidade();
-        FecharMenu();
-    }
-
-    public void EscolherVida()
-    {
-        playerLevel.AumentarVida();
-        FecharMenu();
-    }
-
-    public void EscolherFireBall()
-    {
-        if (TentarEscolher("FireBall"))
-        {
-            playerLevel.AumentarFireBall();
-        }
-    }
-
-    public void EscolherSun()
-    {
-        if (TentarEscolher("SunStrike"))
-        {
-            playerLevel.AumentarSunStrike();
-        }
-    }
-
-    public void EscolherLightning()
-    {
-        if (TentarEscolher("Lightning"))
-        {
-            playerLevel.AumentarLightning();
-        }
-    }
-
-    public void EscolherBlackHole()
-    {
-        if (TentarEscolher("BlackHole"))
-        {
-            playerLevel.AumentarBlackHole();
-        }
-    }
-
-    public void EscolherWaterBall()
-    {
-        if (TentarEscolher("WaterBall"))
-        {
-            playerLevel.AumentarWaterBall();
-        }
-    }
-
-    public void EscolherGlacial()
-    {
-        if (TentarEscolher("Glacial"))
-        {
-            playerLevel.AumentarGlacial();
-        }
-    }
-
+    public void EscolherFireBall()    { if (TentarEscolher("FireBall")) playerLevel.AumentarFireBall(); }
+    public void EscolherSun()         { if (TentarEscolher("SunStrike")) playerLevel.AumentarSunStrike(); }
+    public void EscolherLightning()   { if (TentarEscolher("LightningStrike")) playerLevel.AumentarLightning(); }
+    public void EscolherBlackHole()   { if (TentarEscolher("BlackHole")) playerLevel.AumentarBlackHole(); }
+    public void EscolherWaterBall()   { if (TentarEscolher("WaterBall")) playerLevel.AumentarWaterBall(); }
+    public void EscolherGlacial()     { if (TentarEscolher("Glacial")) playerLevel.AumentarGlacial(); }
+    public void EscolherVida()        { playerLevel.AumentarVida(); FecharMenu(); }
+    public void EscolherVelocidade()  { playerLevel.AumentarVelocidade(); FecharMenu(); }
 
     // ===========================
     // Funções auxiliares
@@ -172,13 +158,27 @@ public class UpgradeMenuUI : MonoBehaviour
                 }
             }
 
+            // 🚀 Chamar o ChoosePower de forma segura
+            var pm = FindFirstObjectByType<PowerManager>();
+            if (pm != null)
+            {
+                pm.ChoosePower(nomePoder);
+            }
+            else
+            {
+                Debug.LogWarning("PowerManager não encontrado ao tentar escolher poder!");
+            }
+
             AtualizarEstadoDosBotoes();
             FecharMenu();
             return true;
         }
 
-        // Bloqueia novos poderes se já escolheu 2
-        if (poderesEscolhidos.Count >= playerLevel.maxPoderes)
+        // Calcula quantos upgrades o jogador pode pegar:
+        //   maxPoderes normal + 1 extra se já viu o Ad
+        int limiteEfetivo = playerLevel.maxPoderes + (GameSession.instancia.hasWatchedAdUpgrade ? 1 : 0);
+
+        if (poderesEscolhidos.Count >= limiteEfetivo)
         {
             Debug.Log("Limite de poderes atingido.");
             return false;
@@ -198,6 +198,17 @@ public class UpgradeMenuUI : MonoBehaviour
             Debug.LogWarning($"Manager não encontrado para: {nomePadronizado}");
         }
 
+        // 🚀 Chamar o ChoosePower de forma segura
+        var pmNovo = FindFirstObjectByType<PowerManager>();
+        if (pmNovo != null)
+        {
+            pmNovo.ChoosePower(nomePoder);
+        }
+        else
+        {
+            Debug.LogWarning("PowerManager não encontrado ao tentar escolher poder!");
+        }
+
         AtualizarEstadoDosBotoes();
         FecharMenu();
         return true;
@@ -205,6 +216,9 @@ public class UpgradeMenuUI : MonoBehaviour
 
     void AtualizarEstadoDosBotoes()
     {
+
+        int limiteEfetivo = playerLevel.maxPoderes + (GameSession.instancia.hasWatchedAdUpgrade ? 1 : 0);
+
         for (int i = 0; i < botoesDePoder.Length; i++)
         {
             string nomeOriginal = nomesDosPoderes[i];
@@ -218,8 +232,7 @@ public class UpgradeMenuUI : MonoBehaviour
             }
 
             bool jaFoiEscolhido = poderesEscolhidos.Contains(nomePadronizado);
-            bool limiteAtingido = poderesEscolhidos.Count >= playerLevel.maxPoderes;
-
+            bool limiteAtingido = poderesEscolhidos.Count >= limiteEfetivo;
             botoesDePoder[i].interactable = jaFoiEscolhido || !limiteAtingido;
         }
     }
@@ -231,4 +244,3 @@ public class UpgradeMenuUI : MonoBehaviour
         Debug.Log("Menu fechado e tempo restaurado.");
     }
 }
-

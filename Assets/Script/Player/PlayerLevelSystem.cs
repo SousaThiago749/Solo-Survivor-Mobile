@@ -16,6 +16,11 @@ public class PlayerLevelSystem : MonoBehaviour{
         upgradeMenu = FindFirstObjectByType<UpgradeMenuUI>();
         if (upgradeMenu == null)
             Debug.LogError("UpgradeMenuUI não encontrado!");
+
+        if (GameSession.instancia != null && GameSession.instancia.isReviving)
+        {
+            nivel = GameSession.instancia.savedPlayerLevel;
+        }
     }
 
     public void RegistrarKill(){

@@ -1,43 +1,50 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class PowerManager : MonoBehaviour
 {
-    public FireBallManager fireBallManager;
-    public SunStrikeManager sunStrikeManager;
-    public LightningManager lightningStrikeManager;
-    public WaterBallManager waterManager;
-    public BlackHoleManager blackHoleManager;
-    public GlacialManager glacialManager;
+    public List<string> powersEscolhidos = new List<string>();
+    public FireBallManager    fireBallManager;
+    public SunStrikeManager   sunStrikeManager;
+    public LightningManager   lightningStrikeManager;
+    public WaterBallManager   waterManager;
+    public BlackHoleManager   blackHoleManager;
+    public GlacialManager     glacialManager;
 
-
-    public void ChoosePower(string powerName)
+    void Awake()
     {
-        switch (powerName)
+        // garante que o PowerManager sobreviva ao carregar outra cena
+        DontDestroyOnLoad(gameObject);
+    }
+
+    void Start()
+    {
+        if (GameSession.instancia != null && GameSession.instancia.isReviving)
         {
-            case "FireBall":
-                if (fireBallManager != null) fireBallManager.LevelUp();
-                break;
+            // reaplica todos os poderes salvos
+            foreach (string nome in GameSession.instancia.savedPowers)
+                ChoosePower(nome);
 
-            case "SunStrike":
-                if (sunStrikeManager != null) sunStrikeManager.LevelUp();
-                break;
+            GameSession.instancia.ClearReviveFlag();
+        }
+    }
 
-            case "LightningStrike":
-                if (lightningStrikeManager != null) lightningStrikeManager.LevelUp();
-                break;
+    public void ChoosePower(string nomePoder)
+    {
+        if (!powersEscolhidos.Contains(nomePoder))
+            powersEscolhidos.Add(nomePoder);
 
-            case "WaterBall":
-                if (waterManager != null) waterManager.LevelUp();
+        switch (nomePoder)
+        {
+            case "FireBall":         fireBallManager?.LevelUp();       break;
+            case "SunStrike":        sunStrikeManager?.LevelUp();      break;
+            case "LightningStrike":  lightningStrikeManager?.LevelUp();break;
+            case "WaterBall":        waterManager?.LevelUp();          break;
+            case "BlackHole":        blackHoleManager?.LevelUp();      break;
+            case "Glacial":          glacialManager?.LevelUp();        break;
+            default:
+                Debug.LogWarning($"ChoosePower: poder '{nomePoder}' não reconhecido.");
                 break;
-            
-            case "BlackHole":
-                if (blackHoleManager != null) blackHoleManager.LevelUp();
-                break;
-
-            case "Glacial":
-                if (glacialManager != null) glacialManager.LevelUp();
-                break;
-
         }
     }
 }

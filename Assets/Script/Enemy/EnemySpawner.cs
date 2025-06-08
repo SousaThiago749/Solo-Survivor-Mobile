@@ -30,6 +30,13 @@ public class EnemySpawner : MonoBehaviour
     void Start()
     {
         AtualizarRound(roundAtual);
+
+    if (GameSession.instancia != null && GameSession.instancia.isReviving)
+    {
+        ClearAllEnemies();
+    }
+
+
     }
 
     void Update()
@@ -113,4 +120,20 @@ public class EnemySpawner : MonoBehaviour
     {
         return roundAtual;
     }
+
+
+
+    public void ClearAllEnemies()
+    {
+        // Encontra todos os inimigos que têm a tag "Enemy"
+        GameObject[] inimigos = GameObject.FindGameObjectsWithTag("Enemy");
+
+        foreach (GameObject inimigo in inimigos)
+        {
+            Destroy(inimigo);
+        }
+
+        Debug.Log($"ClearAllEnemies: {inimigos.Length} inimigos destruídos.");
+    }
+
 }
