@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tigrinho_0: -5908439715890356286
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
